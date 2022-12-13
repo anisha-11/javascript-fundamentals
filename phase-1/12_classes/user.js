@@ -1,5 +1,5 @@
 class User {
-  construuctor(name) {
+  constructor(name) {
     this.name = name;
   }
 
